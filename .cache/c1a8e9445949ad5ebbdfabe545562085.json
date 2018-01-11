@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.primitive = primitive;\nvar array = exports.array = Array.isArray;\nfunction primitive(s) {\n  return typeof s === 'string' || typeof s === 'number';\n}\n//# sourceMappingURL=is.js.map"},"hash":"1e2b356d954a3c62d57d32d9afb20cfb"}

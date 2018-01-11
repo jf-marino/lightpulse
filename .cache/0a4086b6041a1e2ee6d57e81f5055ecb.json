@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./lib/main","loc":{"line":7,"column":26}}],"generated":{"js":"var __dirname = \"/Users/jfm/Documents/Projects/pulse/node_modules/ava\";\nvar e=\"/Users/jfm/Documents/Projects/pulse/node_modules/ava\";module.exports=require(\"./lib/main\");"},"hash":"da5f9c8dc9a546682d5eb8bb9aa5c1d8"}

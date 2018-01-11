@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict';\n\n// Global objects / functions to be bound before requiring test file, so tests do not interfere\n\nconst x = module.exports;\nx.now = Date.now;\nx.setTimeout = setTimeout;\nx.clearTimeout = clearTimeout;\nx.setImmediate = setImmediate;\nx.options = {};\n"},"hash":"ebe02a930e0c289a0bb4a654fab698f1"}

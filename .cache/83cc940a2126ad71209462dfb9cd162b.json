@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"pinkie","loc":{"line":3,"column":43}}],"generated":{"js":"var global = (1,eval)(\"this\");\n'use strict';\n\nmodule.exports = global.Promise || require('pinkie');\n"},"hash":"d31c179367e48df3e8d0f3b46c159bfe"}

@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict';\n\nmodule.exports = () => {\n\tconst pattern = [\n\t\t'[\\\\u001B\\\\u009B][[\\\\]()#;?]*(?:(?:(?:[a-zA-Z\\\\d]*(?:;[a-zA-Z\\\\d]*)*)?\\\\u0007)',\n\t\t'(?:(?:\\\\d{1,4}(?:;\\\\d{0,4})*)?[\\\\dA-PRZcf-ntqry=><~]))'\n\t].join('|');\n\n\treturn new RegExp(pattern, 'g');\n};\n"},"hash":"bf1ec5732188e466cc0777f2bb2c7412"}

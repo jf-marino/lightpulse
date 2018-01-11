@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict'\n\nconst AMBIGUOUS = Symbol('AMBIGUOUS')\nconst DEEP_EQUAL = Symbol('DEEP_EQUAL')\nconst SHALLOW_EQUAL = Symbol('SHALLOW_EQUAL')\nconst UNEQUAL = Symbol('UNEQUAL')\n\nmodule.exports = {\n  AMBIGUOUS,\n  DEEP_EQUAL,\n  SHALLOW_EQUAL,\n  UNEQUAL\n}\n"},"hash":"6a376a08dc4de309dc57e91c18814ded"}

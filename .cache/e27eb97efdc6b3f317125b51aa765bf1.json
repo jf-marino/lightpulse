@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict';\nmodule.exports = function (x) {\n\tvar type = typeof x;\n\treturn x !== null && (type === 'object' || type === 'function');\n};\n"},"hash":"4614b890b804dd3f5eb2861f6f7e8b92"}

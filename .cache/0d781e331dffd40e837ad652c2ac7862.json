@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"\"use strict\";const e=module.exports;e.now=Date.now,e.setTimeout=setTimeout,e.clearTimeout=clearTimeout,e.setImmediate=setImmediate,e.options={};"},"hash":"533262a8306de0a12113281a5842ac7e"}

@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./ArrayObservable","loc":{"line":2,"column":32}}],"generated":{"js":"\"use strict\";\nvar ArrayObservable_1 = require('./ArrayObservable');\nexports.of = ArrayObservable_1.ArrayObservable.of;\n//# sourceMappingURL=of.js.map"},"hash":"f9a0830b575dee6df31b5e7e42de3424"}

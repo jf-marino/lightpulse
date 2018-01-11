@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"symbol-observable","loc":{"line":2,"column":33}}],"generated":{"js":"\"use strict\";const e=require(\"symbol-observable\").default;module.exports=(o=>Boolean(o&&o[e]&&o===o[e]()));"},"hash":"db1002701d329c3b49d769d28c003224"}

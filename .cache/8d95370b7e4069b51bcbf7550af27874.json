@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict'\n\nfunction isEnumerable (obj, key) {\n  const desc = Object.getOwnPropertyDescriptor(obj, key)\n  return desc && desc.enumerable\n}\nmodule.exports = isEnumerable\n"},"hash":"aace9ba34c8bc45bf2c02fb42e3f8c52"}

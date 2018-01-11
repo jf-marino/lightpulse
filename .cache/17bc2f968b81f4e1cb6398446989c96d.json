@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"ansi-regex","loc":{"line":2,"column":26}}],"generated":{"js":"\"use strict\";const e=require(\"ansi-regex\");module.exports=(r=>\"string\"==typeof r?r.replace(e(),\"\"):r);"},"hash":"e594e687e4b54c09c083603cb80febeb"}

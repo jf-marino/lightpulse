@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"core-js/library/fn/object/get-own-property-symbols","loc":{"line":1,"column":38}}],"generated":{"js":"module.exports = { \"default\": require(\"core-js/library/fn/object/get-own-property-symbols\"), __esModule: true };"},"hash":"93ed9eed32fef188a6a530109bc3b457"}

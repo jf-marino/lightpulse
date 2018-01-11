@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"symbol-observable","loc":{"line":2,"column":33}}],"generated":{"js":"'use strict';\nconst symbolObservable = require('symbol-observable').default;\n\nmodule.exports = value => Boolean(value && value[symbolObservable] && value === value[symbolObservable]());\n"},"hash":"a7ffba7ab7e8966542d733904ed3cc67"}

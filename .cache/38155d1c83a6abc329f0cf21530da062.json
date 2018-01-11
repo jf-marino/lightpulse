@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"number-is-nan","loc":{"line":2,"column":26}}],"generated":{"js":"'use strict';\nvar numberIsNan = require('number-is-nan');\n\nmodule.exports = Number.isFinite || function (val) {\n\treturn !(typeof val !== 'number' || numberIsNan(val) || val === Infinity || val === -Infinity);\n};\n"},"hash":"1093f13d4e7063377ab86786ca437190"}

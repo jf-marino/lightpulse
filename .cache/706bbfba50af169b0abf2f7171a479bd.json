@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"../../modules/es6.array.filter","loc":{"line":1,"column":8}},{"name":"../../modules/_core","loc":{"line":2,"column":25}}],"generated":{"js":"require('../../modules/es6.array.filter');\nmodule.exports = require('../../modules/_core').Array.filter;\n"},"hash":"d9199aa8811f8a6e78b6b219d820a2f3"}

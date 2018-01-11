@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"../../modules/es6.symbol","loc":{"line":1,"column":8}},{"name":"../../modules/_core","loc":{"line":2,"column":25}}],"generated":{"js":"require('../../modules/es6.symbol');\nmodule.exports = require('../../modules/_core').Object.getOwnPropertySymbols;\n"},"hash":"50dbff56d327bfb4d0eeca0342285794"}

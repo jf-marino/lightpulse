@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict'\n\nconst hop = Object.prototype.hasOwnProperty\nfunction hasLength (obj) {\n  return Array.isArray(obj) || (hop.call(obj, 'length') && typeof obj.length === 'number')\n}\nmodule.exports = hasLength\n"},"hash":"df5ecf35b284872d3a5397e1b8618828"}

@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./ArrayObservable","loc":{"line":2,"column":32}}],"generated":{"js":"\"use strict\";var r=require(\"./ArrayObservable\");exports.of=r.ArrayObservable.of;"},"hash":"b4bfa357374187bafdee9eef4fc63509"}

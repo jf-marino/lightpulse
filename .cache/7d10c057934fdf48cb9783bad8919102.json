@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./mergeAll","loc":{"line":2,"column":25}}],"generated":{"js":"\"use strict\";var e=require(\"./mergeAll\");function r(){return e.mergeAll(1)}exports.concatAll=r;"},"hash":"882e2ab4032d315d5810e45bb9d93538"}

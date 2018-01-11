@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"ava","loc":{"line":3,"column":20}}],"generated":{"js":"\"use strict\";\nObject.defineProperty(exports, \"__esModule\", { value: true });\nconst ava = require(\"ava\");\nava.test.todo('should create');\n//# sourceMappingURL=component.js.map"},"hash":"4dd7d02d9b67d78f9f866cd7ddc9fef7"}

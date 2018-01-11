@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"module.exports = isPromise;\n\nfunction isPromise(obj) {\n  return !!obj && (typeof obj === 'object' || typeof obj === 'function') && typeof obj.then === 'function';\n}\n"},"hash":"93d8f1e62d0bb71d384409a53498fc41"}

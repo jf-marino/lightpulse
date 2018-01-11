@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./errorObject","loc":{"line":2,"column":28}}],"generated":{"js":"\"use strict\";var r,t=require(\"./errorObject\");function e(){try{return r.apply(this,arguments)}catch(r){return t.errorObject.e=r,t.errorObject}}function c(t){return r=t,e}exports.tryCatch=c;"},"hash":"f0d1aa75c557f9f57ad682ac93e79ee2"}

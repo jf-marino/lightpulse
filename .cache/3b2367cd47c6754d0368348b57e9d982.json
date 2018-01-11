@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"../operators/startWith","loc":{"line":2,"column":26}}],"generated":{"js":"\"use strict\";var t=require(\"../operators/startWith\");function r(){for(var r=[],i=0;i<arguments.length;i++)r[i-0]=arguments[i];return t.startWith.apply(void 0,r)(this)}exports.startWith=r;"},"hash":"5d780ccc61f5371f7f12e69eb1700acb"}

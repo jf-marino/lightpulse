@@ -1,0 +1,1 @@
+{"dependencies":[],"generated":{"js":"'use strict';\nmodule.exports = function (str) {\n\tvar tail = str.length;\n\n\twhile (/[\\s\\uFEFF\\u00A0]/.test(str[tail - 1])) {\n\t\ttail--;\n\t}\n\n\treturn str.slice(0, tail);\n};\n"},"hash":"be5e98f8d2d135ca2184d8dd184d76fd"}
