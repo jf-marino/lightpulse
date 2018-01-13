@@ -1,0 +1,19 @@
+{
+  "name": "todo-mvc-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juan Francisco Marino",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node_modules/.bin/parcel src/index.html"
+  },
+  "dependencies": {
+    "lightpulse": "^0.0.1",
+    "todomvc-app-css": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.4.1"
+  }
+}

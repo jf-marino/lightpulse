@@ -6,6 +6,7 @@
   "author": "Juan Francisco Marino",
   "license": "MIT",
   "private": false,
+  "repository": "https://github.com/jf-marino/lightpulse",
   "scripts": {
     "lint": "./node_modules/.bin/tslint -c tslint.json index.ts src/**/*.ts",
     "start": "./node_modules/.bin/parcel index.js",

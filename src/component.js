@@ -29,7 +29,12 @@ export function Actions(m) {
     const all = new BehaviorSubject(null);
     const stream = all.asObservable().filter(a => !!a);
     const handlers = Object.keys(m).reduce((handlers, key) => {
-        return { ...handlers, [key]: (ev) => all.next(m[key](ev)) };
+        return { ...handlers, [key]: (ev, ...others) => {
+                const res = m[key](ev, ...others);
+                res instanceof Observable
+                    ? res.subscribe(r => all.next(r))
+                    : all.next(res);
+            }};
     }, {});
     return { stream, handlers };
 }
