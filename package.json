@@ -14,7 +14,6 @@
     "test": "./node_modules/.bin/ava src/test/*.spec.js"
   },
   "devDependencies": {
-    "@types/jasmine": "^2.8.3",
     "ava": "^0.24.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
@@ -25,14 +24,8 @@
     "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-promise": "^3.6.0",
     "eslint-plugin-standard": "^3.0.1",
-    "jasmine-core": "^2.8.0",
-    "karma": "^2.0.0",
     "karma-chrome-launcher": "^2.2.0",
-    "karma-jasmine": "^1.1.1",
-    "karma-typescript": "^3.0.9",
-    "parcel-bundler": "^1.4.1",
-    "tslint": "^5.8.0",
-    "typescript": "^2.6.2"
+    "parcel-bundler": "^1.4.1"
   },
   "dependencies": {
     "rxjs": "^5.5.6",

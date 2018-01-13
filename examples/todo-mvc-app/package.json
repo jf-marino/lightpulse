@@ -9,7 +9,7 @@
     "start": "node_modules/.bin/parcel src/index.html"
   },
   "dependencies": {
-    "lightpulse": "^0.0.1",
+    "lightpulse": "0.0.2",
     "todomvc-app-css": "^2.1.0"
   },
   "devDependencies": {

@@ -1997,9 +1997,9 @@ lazy-cache@^2.0.2:
   dependencies:
     set-getter "^0.1.0"
 
-lightpulse@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/lightpulse/-/lightpulse-0.0.1.tgz#a8120f01ae02c7cb076e82cca2df536cb8e88107"
+lightpulse@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/lightpulse/-/lightpulse-0.0.2.tgz#177a8a7583d1cb39178969205e0fecb5fc2ac94c"
   dependencies:
     rxjs "^5.5.6"
     snabbdom "^0.7.1"
