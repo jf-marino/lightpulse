@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"md5-o-matic","loc":{"line":2,"column":26}}],"generated":{"js":"'use strict';\nconst md5OMatic = require('md5-o-matic');\n\nmodule.exports = input => {\n\tif (Array.isArray(input)) {\n\t\tinput = input.join('');\n\t}\n\n\treturn md5OMatic(input);\n};\n"},"hash":"db1f268cfa721d16ef11a9efa094e1e8"}

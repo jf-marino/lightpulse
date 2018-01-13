@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"core-js/library/fn/number/max-safe-integer","loc":{"line":1,"column":38}}],"generated":{"js":"module.exports = { \"default\": require(\"core-js/library/fn/number/max-safe-integer\"), __esModule: true };"},"hash":"0d1624a4d2dc191abc2b8530152befdf"}

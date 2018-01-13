@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"'use strict';\nmodule.exports = function (fn) {\n\tif (typeof fn !== 'function') {\n\t\tthrow new TypeError('Expected a function');\n\t}\n\n\treturn fn.displayName || fn.name || (/function ([^\\(]+)?\\(/.exec(fn.toString()) || [])[1] || null;\n};\n"},"hash":"3e89bf593c88ff84a52b1475ed31b0d3"}

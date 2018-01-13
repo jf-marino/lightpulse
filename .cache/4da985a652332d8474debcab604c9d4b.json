@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"../operators/scan","loc":{"line":2,"column":21}}],"generated":{"js":"\"use strict\";var s=require(\"../operators/scan\");function r(r,t){return arguments.length>=2?s.scan(r,t)(this):s.scan(r)(this)}exports.scan=r;"},"hash":"9f38712c708720a259ff08047b4eccf4"}

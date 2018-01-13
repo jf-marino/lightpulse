@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./EmptyObservable","loc":{"line":2,"column":32}}],"generated":{"js":"\"use strict\";var e=require(\"./EmptyObservable\");exports.empty=e.EmptyObservable.create;"},"hash":"9eddd4a1f1130510394d51194d753050"}

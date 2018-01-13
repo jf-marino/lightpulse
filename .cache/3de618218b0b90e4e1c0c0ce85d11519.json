@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"'use strict'\n\nfunction escapeText (text) {\n  return text\n    .replace(/</g, '&lt;')\n    .replace(/>/g, '&gt;')\n    // TODO: Escape characters that Concordance would otherwise replace with \\u\n    // sequences.\n}\nmodule.exports = escapeText\n"},"hash":"37006da96b30382f60893d0ee55292e5"}

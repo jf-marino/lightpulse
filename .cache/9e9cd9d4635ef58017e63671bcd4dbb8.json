@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"'use strict';\nmodule.exports = Number.isNaN || function (x) {\n\treturn x !== x;\n};\n"},"hash":"7f9c392849a5c9405279df1f5087a345"}

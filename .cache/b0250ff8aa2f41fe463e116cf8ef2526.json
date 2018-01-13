@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"\"use strict\";\nfunction identity(x) {\n    return x;\n}\nexports.identity = identity;\n//# sourceMappingURL=identity.js.map"},"hash":"17f4472f90926e0704eea2de236465af"}

@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"'use strict';\nmodule.exports = function (val) {\n\tif (val === null || val === undefined) {\n\t\treturn [];\n\t}\n\n\treturn Array.isArray(val) ? val : [val];\n};\n"},"hash":"f1d9e45db44041dff1547c1ac0e91c9c"}

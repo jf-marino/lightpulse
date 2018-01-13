@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./FromObservable","loc":{"line":2,"column":31}}],"generated":{"js":"\"use strict\";var r=require(\"./FromObservable\");exports.from=r.FromObservable.create;"},"hash":"3978819371618e354cfcc2016f170cb5"}

@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"../../modules/es6.number.max-safe-integer","loc":{"line":1,"column":8}}],"generated":{"js":"require('../../modules/es6.number.max-safe-integer');\nmodule.exports = 0x1fffffffffffff;\n"},"hash":"bff97a88aaeff27fa3d77e8eca0e40ff"}

@@ -1,1 +1,0 @@
-{"dependencies":[],"generated":{"js":"'use strict';\nvar toString = Object.prototype.toString;\n\nmodule.exports = function (fn) {\n\tif (typeof fn !== 'function') {\n\t\treturn false;\n\t}\n\n\treturn (fn.constructor && fn.constructor.name === 'GeneratorFunction') ||\n\t\ttoString.call(fn) === '[object GeneratorFunction]';\n};\n"},"hash":"caa4e3a3418d42ddb7d0ecae07697a6c"}

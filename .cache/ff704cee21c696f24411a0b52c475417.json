@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./mergeMap","loc":{"line":2,"column":25}},{"name":"../util/identity","loc":{"line":3,"column":25}}],"generated":{"js":"\"use strict\";var e=require(\"./mergeMap\"),r=require(\"../util/identity\");function i(i){return void 0===i&&(i=Number.POSITIVE_INFINITY),e.mergeMap(r.identity,null,i)}exports.mergeAll=i;"},"hash":"bf1dd626eaf0c44045260407ff7e028d"}

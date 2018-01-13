@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"ava","loc":{"line":3,"column":22}}],"generated":{"js":"\"use strict\";Object.defineProperty(exports,\"__esModule\",{value:!0});const e=require(\"ava\");e.default.todo(\"TODO\");"},"hash":"a726e5cd0987b699822b3c74a433b698"}

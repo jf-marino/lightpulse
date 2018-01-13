@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"../../modules/es6.array.map","loc":{"line":1,"column":8}},{"name":"../../modules/_core","loc":{"line":2,"column":25}}],"generated":{"js":"require('../../modules/es6.array.map');\nmodule.exports = require('../../modules/_core').Array.map;\n"},"hash":"d64c6dea2a89e90e81bc21beba59d9cc"}

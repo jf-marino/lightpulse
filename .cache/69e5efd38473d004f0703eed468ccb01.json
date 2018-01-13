@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./ponyfill","loc":{"line":4,"column":25}}],"generated":{"js":"var global = (1,eval)(\"this\");\n/* global window */\n'use strict';\n\nmodule.exports = require('./ponyfill')(global || window || this);\n"},"hash":"6a62657e611eca34f1568617f4126001"}
